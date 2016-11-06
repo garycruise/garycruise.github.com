@@ -1,0 +1,25 @@
+title:            '米楽高'
+description:      '一个程序员'
+url:              'http://notes.milegao.com'
+signoff:          '陈钧'
+disqus_shortname: 'milegao'
+facebook_appid:   '1749201265341783'
+google_analytics: ''
+timezone:         Asia/Tokyo
+future:           true
+repository_url:   https://github.com/garycruise/garycruise.github.io.git
+
+links:
+  - name:         Blog
+    url:          /
+  - name:         About
+    url:          /about
+  - name:         GitHub
+    url:          http://github.com/garycruise
+    external:     true
+highlighter:      pygments
+permalink:        pretty
+markdown:         redcarpet
+redcarpet:
+  extensions:
+    - smart
