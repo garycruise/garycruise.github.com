@@ -2,7 +2,9 @@
 title: About Me
 layout: page
 ---
-陈钧 GaryCruise
+陈钧 <small>GaryCruise</small>
 
-Full Stack Dev | Student
+A Student<br>
+Full Stack Dev
+
 
