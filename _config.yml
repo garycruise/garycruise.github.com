@@ -8,7 +8,7 @@ google_analytics: 'UA-23734905-2'
 timezone:         Asia/Tokyo
 highlighter:      pygments
 future:           true
-repository_url:   https://github.com/garycruise/garycruise.github.io.git
+repository_url:   https://github.com/garycruise/garycruise.github.io
 
 links:
   - name:         Blog
