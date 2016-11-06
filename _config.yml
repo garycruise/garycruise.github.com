@@ -4,7 +4,7 @@ url:              'http://notes.milegao.com'
 signoff:          '陈钧'
 disqus_shortname: 'milegao'
 facebook_appid:   '1749201265341783'
-google_analytics: ''
+google_analytics: 'UA-23734905-1'
 timezone:         Asia/Tokyo
 highlighter:      pygments
 future:           true
