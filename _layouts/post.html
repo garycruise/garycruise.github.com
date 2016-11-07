@@ -6,6 +6,7 @@
   </head>
   <body>
     {% include header.html %}
+    {% include ad.html%}
     <div id='container'>
       {% include links.html %}
       {% include pages.html %}
@@ -17,17 +18,10 @@
           </h1>
           {{ content }}
           {% include signoff.html %}
-
-
         </section>
       </div>
-      {% if page.share == 'y' %}
-        {% include share.html %}
-      {% endif %}
-
-      {% if page.disqus == 'y' %}
-        {% include disqus.html %}
-      {% endif %}
+      {% include share.html %}
+      {% include disqus.html %}
     </div>
     {% include footer.html %}
   </body>
