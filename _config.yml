@@ -2,9 +2,8 @@ title:            '米楽高'
 description:      '一个程序员'
 url:              'https://blog.milegao.com'
 signoff:          '陈钧'
-disqus_shortname: 'milegao'
-facebook_appid:   '1749201265341783'
-google_analytics: 'UA-23734905-2'
+disqus_shortname: milegao
+facebook_appid:   1749201265341783
 timezone:         Asia/Tokyo
 highlighter:      pygments
 future:           true
@@ -18,8 +17,7 @@ links:
   - name:         About
     url:          /about.html
 
-permalink:        /:title.html
-markdown:         kramdown
+permalink:        pretty
 highlighter: rouge
 markdown: kramdown
 kramdown:

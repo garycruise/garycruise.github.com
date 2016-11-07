@@ -1,7 +1,6 @@
 <html>
   <head>
     <meta content='{{ page.title }} - {{ site.title }}' property='og:title' />
-    <meta charset="utf-8">
     <title>{{ page.title }} - {{ site.title }}</title>
     {% include head.html %}
   </head>
@@ -29,7 +28,6 @@
       {% if page.disqus == 'y' %}
         {% include disqus.html %}
       {% endif %}
-      {% include links.html %}
     </div>
     {% include footer.html %}
   </body>
