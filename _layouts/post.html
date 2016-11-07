@@ -15,12 +15,12 @@
             <div class='date'>{{ page.date | date_to_string }}</div>
             {{ page.title }}
           </h1>
-          {% include ad.html %}
           {{ content }}
           {% include signoff.html %}
         </section>
       </div>
       {% include share.html %}
+      {% include ad.html %}
       {% include disqus.html %}
     </div>
     {% include footer.html %}
