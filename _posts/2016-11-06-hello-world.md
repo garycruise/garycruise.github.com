@@ -3,8 +3,6 @@ layout: post
 title: Hello World
 tags:
     - 唠叨
-disqus: y
-share: y
 ---
 ## zh
 　一直想写点博客，可是没（就）时（是）间（懒），一直没写。<br>
