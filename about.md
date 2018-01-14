@@ -2,9 +2,11 @@
 title: About Me
 layout: page
 ---
-陈钧 <small>GaryCruise</small>
+- Github:
+  - [garycruise](https://github.com/garycruise)(private)
+  - [gccj](https://github.com/gccj)(work)
+- Facebook: [https://www.facebook.com/milegao](https://www.facebook.com/milegao)
+- Twitter: [https://twitter.com/milegao](https://twitter.com/milegao)
 
-A Student<br>
-Full Stack Dev
 
 
